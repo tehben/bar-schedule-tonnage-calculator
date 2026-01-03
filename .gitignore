@@ -1,0 +1,10 @@
+# Word temp files
+~$*.docx
+~$*.doc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local secrets / env
+.env
