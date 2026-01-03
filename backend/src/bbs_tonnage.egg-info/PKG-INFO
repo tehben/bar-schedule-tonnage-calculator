@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: bbs-tonnage
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: fastapi>=0.110
+Requires-Dist: uvicorn[standard]>=0.27
+Requires-Dist: pydantic>=2.6
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: pdfplumber>=0.11
+Requires-Dist: camelot-py>=0.11.0
+Requires-Dist: opencv-python-headless>=4.9.0.80
+Requires-Dist: reportlab>=4.0
+Requires-Dist: jinja2>=3.1
